@@ -1,0 +1,8 @@
+{
+  "name": "fakeoutage",
+  "version": "1.3.3.7",
+  "description": "Fake guild outage",
+  "author": "Tesco#1337",
+  "license": "MIT",
+  "dependencies": [ "pc-commands" ]
+}
