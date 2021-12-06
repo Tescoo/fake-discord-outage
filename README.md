@@ -25,4 +25,8 @@ you can send "triggeroutage" anywhere on another client and it will "outage" the
 
 # Issues
 
-i am stupid and this has a crashing problem please help me because xenos wont
+~~i am stupid and this has a crashing problem please help me because xenos wont~~
+
+crashing issue fixed
+
+let me know if other issues
