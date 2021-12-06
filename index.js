@@ -180,7 +180,7 @@ document.getElementsByClassName("title-3qD0b- container-1r6BKw themed-ANHk51")[0
                                     </div>
                                  </section>`;
 
-document.getElementsByClassName("container-2wlB3z")[0].remove();
+document.getElementsByClassName("container-2wlB3z")[0].style.display="none";
 document.getElementsByClassName("chatContent-a9vAAp")[0].innerHTML=`<div class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-35P_nr justifyCenter-3D2jYp alignCenter-1dQNNs noWrap-3jynv6 wrapper-r-6rrt" style="flex: 1 1 auto;">
                                           <div class="image-1GzsFd" style=" width: 380px; height: 210px; background-image: url(/assets/0d16e62fc3a84fc7e76b06584b646df9.svg"></div>
                                           <div class="flexChild-faoVW3" direction="vertical-V37hAW flex-1O1GKY directionColumn-35P_nr" style="flex: 0 1 auto; top:1030px;">
@@ -352,7 +352,7 @@ document.getElementsByClassName("chatContent-a9vAAp")[0].innerHTML=`<div class="
                                     </div>
                                  </section>`;
 
-            document.getElementsByClassName("container-2wlB3z")[0].remove();
+            document.getElementsByClassName("container-2wlB3z")[0].style.display="none";
             document.getElementsByClassName("chatContent-a9vAAp")[0].innerHTML = `<div class="flex-1xMQg5 flex-1O1GKY vertical-V37hAW flex-1O1GKY directionColumn-35P_nr justifyCenter-3D2jYp alignCenter-1dQNNs noWrap-3jynv6 wrapper-r-6rrt" style="flex: 1 1 auto;">
                                           <div class="image-1GzsFd" style=" width: 380px; height: 210px; background-image: url(/assets/0d16e62fc3a84fc7e76b06584b646df9.svg"></div>
                                           <div class="flexChild-faoVW3" direction="vertical-V37hAW flex-1O1GKY directionColumn-35P_nr" style="flex: 0 1 auto; top:1030px;">
