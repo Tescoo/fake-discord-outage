@@ -4,7 +4,7 @@ Fake a discord guild outage with this Powercord plugin.
 # How it works?
 right click on a server of your choice and click "Fake outage guild"
 
-xenos has made a better discord version, so you can check that out here 
+xenos has made a better discord version, so you can check that out [here](https://github.com/xenos1337/FakeOutage-Plugin)
 
 yeah thats it...
 
