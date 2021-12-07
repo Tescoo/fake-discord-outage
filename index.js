@@ -17,17 +17,10 @@ const {
     close: closeModal
 } = require('powercord/modal');
 const {
-    exec
-} = require("child_process");
-const {
     clipboard
 } = require('electron');
 
 module.exports = class Encrypt extends Plugin {
-
-    async niggalover() {
-        alert(1)
-    }
     async startPlugin() {
         const Menu = getModule(['MenuItem'], false);
         const GuildContextMenu = getModule((m) => m.default && m.default.displayName === 'GuildContextMenu', false);
